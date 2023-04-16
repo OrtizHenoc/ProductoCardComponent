@@ -11,7 +11,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -31,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://www.frontendmentor.io/solutions/responsive-product-card-with-mobile-first-methodolgy-ucvs-LZZEF)
+- Live Site URL: [](https://ortizhenoc.github.io/ProductoCardComponent/)
 
 
 
@@ -63,7 +62,5 @@ I need improve with the speed of development, for this I will study more the fun
 - Twitter - [@ortiz_henoc](https://twitter.com/ortiz_henoc)
 
 
-## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
